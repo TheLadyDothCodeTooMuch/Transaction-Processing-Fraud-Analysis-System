@@ -1,5 +1,5 @@
 # Transaction-Processing-Fraud-Analysis-System
-A Python + SQL project that transforms raw banking transaction data into a clean, normalized database.
+A Python and SQL project that transforms raw banking transaction data into a clean, normalized database.
 The ETL pipeline cleans and validates customer, account, merchant, and transaction data, loads it into MSSQL, and enables SQL-based fraud and pattern analysis.
 
 Includes:
