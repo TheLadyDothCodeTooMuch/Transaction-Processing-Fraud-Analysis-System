@@ -1,3 +1,6 @@
+CREATE SCHEMA silver_layer;
+GO
+
 DROP TABLE IF EXISTS dim_customers;
 CREATE TABLE dim_customers (
     customer_key INT PRIMARY KEY IDENTITY(1,1),
