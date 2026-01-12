@@ -14,8 +14,8 @@ def load_bronze(valid_df, table_name="bronze_bank_transactions"):
     try:
         # uses if_exists='append' so previous history in Bronze is not deleted
         valid_df.to_sql(table_name, engine, if_exists="append", index=False)
-    except Exception as other_error:
-        print(f"Error: Could not load data to SQL server: {other_error}")
+    except Exception as load_error:
+        print(f"Error: Could not load data to SQL server: {load_error}")
 
 
 def main():
