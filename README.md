@@ -10,7 +10,7 @@ This project demonstrates data engineering, database design, and SQL analytics s
 
 
 * **The Targets:** While Checking accounts have the highest volume, **Business and Savings accounts** are higher-risk. Fraud rates for these segments sit at **5.17%** and **5.03%**, respectively.
-* **The "Goldilocks" Scams:** Fraudsters appear to favor **Medium-value transactions** ($10k - $50k). This "mid-tier" range accounts for **40.34%** of all fraud, likely because these amounts are high enough to be profitable but low enough to potentially bypass automated bank filters.
+* **The "Goldilocks" Scams:** Fraudsters appear to favor **Medium-value transactions** (₹10k - ₹50k). This "mid-tier" range accounts for **40.34%** of all fraud, likely because these amounts are high enough to be profitable but low enough to potentially bypass automated bank filters.
 * **Where & When:** **Restaurants** are the top merchant category for fraud (16.8% of cases). Suspicious activity peaks on **Wednesday mornings by midnight then in the evenings by 6 PM**.
 * **Vulnerable Demographics**: **Seniors** (specifically males in this dataset) are the most frequent targets, with nearly **2,000** fraudulent instances recorded.
 
