@@ -1,6 +1,5 @@
 # Transaction-Processing-Fraud-Analysis-System
-This project explores how fraud manifests in daily bank transaction logs. The goal was to take raw, unorganized data, structure it into a formal database format, and uncover hidden stories—such as why certain accounts are targeted or identifying the "prime time" for fraudulent activity.A Python and SQL project that transforms raw banking transaction data into a clean, normalized database.
-The ETL pipeline cleans and validates customer, account, merchant, and transaction data, loads it into MSSQL, and enables SQL-based fraud and pattern analysis.
+This project explores how fraud manifests in daily bank transaction logs. The goal was to take raw, unorganized data, structure it into a formal database format, and uncover hidden stories, such as why certain accounts are targeted or identifying the "prime time" for fraudulent activity. The ETL pipeline cleans and validates customer, account, merchant, and transaction data, loads it into MSSQL, and enables SQL-based fraud and pattern analysis.
 
 This project demonstrates data engineering, database design, and SQL analytics skills with realistic banking data.
 
