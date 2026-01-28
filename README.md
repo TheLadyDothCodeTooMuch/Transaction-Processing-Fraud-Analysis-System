@@ -35,4 +35,11 @@ The dashboard features **Dashboard Actions**. Clicking on a specific **Age Group
 
 **[Check out the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Bank_Transactions_Dashboard/ExecutiveOverview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+---
+
+### **Data Source**
+Due to the file size, the raw dataset is hosted on Kaggle. 
+
+**[Download Dataset from Kaggle](https://www.kaggle.com/datasets/marusagar/bank-transaction-fraud-detection/data)**
+
 
